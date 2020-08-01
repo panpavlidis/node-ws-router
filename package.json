@@ -1,0 +1,15 @@
+{
+  "name": "node-ws-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "panpavlid@gmail.com",
+  "license": "ISC"
+}
